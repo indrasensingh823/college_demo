@@ -7,9 +7,7 @@ This repository serves as a collection of my first projects, practice code, and 
 
 Basic HTML, CSS, and JavaScript projects
 
-Personal learning notes and code snippets
-
-Early portfolio designs and web components
+Basic Calculator using javascript feature
 
 Creative coding experiments and animations
 
